@@ -9,11 +9,6 @@ To implement a program to illustrate the mechanism of sliding window protocol
 5. If your frames reach the server it will send ACK signal to client
 6. Stop the Program
 ## PROGRAM
-
-Developed by : **KABELAN G K**
-
-Reg no : **212224110027**
-
 ### Client
 ```python
 import socket
